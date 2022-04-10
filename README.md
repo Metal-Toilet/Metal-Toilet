@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Metal-Toilet
+- 👀 I’m interested in linux, rust, linux on bad hardwear, and more that i can't think of rn
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me discord: Metal Toilet#4685
